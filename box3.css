@@ -1,6 +1,6 @@
 * {
 	margin: 0;
-	padding: 0;
+	padding: 20px;
   box-sizing: border-box;
 }
 
@@ -10,4 +10,7 @@ div {
     height: 150px;
     background-color: #d3eaff;
     padding: 20px;
+    border-color: #333;
+    border: 5px;
 }
+
