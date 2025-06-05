@@ -12,5 +12,6 @@ div {
     padding: 20px;
     border-color: #333;
     border: 5px;
+    border-style: solid;
 }
 
